@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1067" viewBox="0 0 800 1067" role="img" aria-label="AUREL">
+  <rect width="800" height="1067" fill="#e8e1d4"/>
+  <rect x="0" y="0" width="800" height="1067" fill="#d9d0bf" opacity="0.35"/>
+  <circle cx="400" cy="500" r="128" fill="none" stroke="#c4b8a2" stroke-width="1.5"/>
+  <circle cx="400" cy="500" r="150" fill="none" stroke="#c4b8a2" stroke-width="0.75" opacity="0.6"/>
+  <text x="400" y="513" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="14" fill="#6e675e">AUREL</text>
+  <text x="400" y="700" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" fill="#8b857b" text-anchor="middle">IMAGE UNAVAILABLE</text>
+</svg>
